@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">El eslabón más débil</string>
+    <string name="restore">Restaurar</string>
+    <string name="zero_value">$0</string>
+    <string name="bank">BANCO</string>
+    <string name="results">Resultados</string>
+    <string name="accept">Aceptar</string>
+    <string name="value_500">$500</string>
+    <string name="value_1000">$1,000</string>
+    <string name="value_2000">$2,000</string>
+    <string name="value_5000">$5,000</string>
+    <string name="value_10000">$10,000</string>
+    <string name="value_15000">$15,000</string>
+    <string name="value_20000">$20,000</string>
+    <string name="value_25000">$25,000</string>
+</resources>
